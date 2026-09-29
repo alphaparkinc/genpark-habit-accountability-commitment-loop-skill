@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-habit-accountability-commitment-loop-skill"
+version = "1.0.0"
+description = "Habit loop tracking and micro-commitment accountability check-in system with partner synchronization"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
