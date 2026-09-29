@@ -1,0 +1,6 @@
+name: genpark-habit-accountability-commitment-loop-skill
+version: 1.0.0
+description: Habit loop tracking and micro-commitment accountability check-in system with partner synchronization
+command: python
+args:
+  - mcp_server.py
